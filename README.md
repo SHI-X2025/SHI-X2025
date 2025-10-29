@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
+<img src="assets/logo-shi.jpg" =Use this logo as reference:<a href='https://postimg.cc/r0PcNSdd' target='_blank'><img src='https://i.postimg.cc/r0PcNSdd/temp-Imagelas-Ri-I.avif' border='0' alt='temp-Imagelas-Ri-I'/></a>
 
-<!--
-**SHI-X2025/SHI-X2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 style="color:#2E8B57;"> ดำเนินการโดย</h3>
+<p>
+มูลนิธิสถาบันวิจัยสังคมและสุขภาพ (SHI)<br>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p style="color:gray; font-size:14px;">
+พัฒนาและขับเคลื่อนโดยเครือข่ายความร่วมมือด้านข้อมูลสุขภาพชุมชน 
+</p>
+
+</div>
+<section id="About SHI X">
+  <h1>About SHI X</h1>
+  <p>ยินดีต้อนรับสู่ <strong>SHI X</strong> — แพลตฟอร์มด้านข้อมูลและเทคโนโลยีของสถาบันวิจัยสังคมและสุขภาพ</p>
+
+---
+</div>
+<section id="About CHL">
+  <h1>About CHL</h1>
+  <p>ยินดีต้อนรับสู่ <strong>CHL</strong> — แพลตฟอร์มด้านข้อมูลและเทคโนโลยีของสถาบันวิจัยสังคมและสุขภาพ</p>
+
+  <p>
+   Click เพื่อเข้าสู่ระบบ:
+    <a href="https://[sites.google.com/view/thaichl-connect](https://kc-chl.nationalhealth.or.th/realms/community-health-link/protocol/openid-connect/auth?client_id=community-health-link&redirect_uri=https%3A%2F%2Fchl.nationalhealth.or.th&response_type=code&scope=openid%20profile%20email%20offline_access&nonce=58b82bb02c74be5d2ba8c4433fb1c63a76jMNxK1m&state=a33bc8bc533e1fef93195c64ee5bd4adeeBREOQWi&code_challenge=sOzeZzZ2VrLPtxa4iiHNWFYL1f1_6qeCkco8x4PxjH4&code_challenge_method=S256)" target="_blank" rel="noopener noreferrer">
+      Thai CHL Connect — แพลตฟอร์มข้อมูลชุมชน
+    </a>
+  </p>
+</section>
+
+---
+## แหล่งข้อมูล (Data Sources)
+
+### ข้อมูลในประเทศไทย
+- [ศูนย์ข้อมูลภาครัฐของประเทศไทย (data.go.th)](https://data.go.th/)
+- [สำนักสถิติแห่งชาติ — ข้อมูลสถิติที่สำคัญ](http://statbbi.nso.go.th/staticreport/page/sector/th/01.aspx)
+- [ศูนย์ข้อมูลกรุงเทพมหานคร (data.bangkok.go.th)](https://data.bangkok.go.th/)
+- [ข้อมูลท้องที่ ตำบล หมู่บ้าน — สนบท](https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/ccaa.php)
+
+---
+
+### ข้อมูลทั่วโลก
+- [Our World in Data](https://ourworldindata.org/)
+
+---
+
+### คลังข้อมูล
+
+ข้อมูลอ้างอิง :: [folder](https://drive.google.com/drive/u/1/folders/1uKQ_fZc5mtCPcb4Ajztj25ESdycT-bBa)
+
+ขื่อจังหวัดและอักษรย่อ :: [ชื่อภาษาอังกฤษ](https://docs.google.com/document/d/1GAdVZ-es2_6T4m2AtlIYjAM3-Zup6DXb/edit?rtpof=true&sd=true) | [wikipedia](https://surl.li/bvlnst) | [ระเบียบงานสารบรรณ ฉบับที่ 4](https://drive.google.com/file/d/187YOnou68hDQ7Qfs7oXeQrZlNsbkbK3s/view)
+
+ชื่อจังหวัด อำเภอ ตำบล (ไทย-อังกฤษ) :: [ราชบัณฑิตยสภา ทั้งหมด](https://drive.google.com/file/d/1ToYtVvV4CStvmYTXN2cVuAKoje7-FvY8/view) | [เขตใน กทม](https://drive.google.com/file/d/1kqOgLJN0xvOn9jq_MLGosyVASqYf3zGe/view)

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/logo-shi.jpg" =Use this logo as reference:<a href='https://postimg.cc/r0PcNSdd' target='_blank'><img src='https://i.postimg.cc/r0PcNSdd/temp-Imagelas-Ri-I.avif' border='0' alt='temp-Imagelas-Ri-I'/></a>
+
 
 <h3 style="color:#2E8B57;"> ดำเนินการโดย</h3>
 <p>

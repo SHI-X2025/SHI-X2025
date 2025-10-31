@@ -1,7 +1,6 @@
 <div align="center">
-
-
-<h3 style="color:#2E8B57;"> ดำเนินการโดย</h3>
+<img src= "https://github.com/SHI-X2025/Photo/blob/main/Gemini_Generated_Image_nkl87lnkl87lnkl8.webp?raw=true" width="100%" />
+<h3 shttps://github.com/SHI-X2025/Photo/blob/fae24f969fd866714361a2c4fe76c4b9485f0762/Gemini_Generated_Image_nkl87lnkl87lnkl8.webptyle="color:#2E8B57;"> ดำเนินการโดย</h3>
 <p>
 มูลนิธิสถาบันวิจัยสังคมและสุขภาพ (SHI)<br>
 

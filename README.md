@@ -37,7 +37,7 @@
 
 ### ข้อมูลในประเทศไทย
 - [ศูนย์ข้อมูลภาครัฐของประเทศไทย (data.go.th)](https://data.go.th/)
-- [สำนักสถิติแห่งชาติ — ข้อมูลสถิติที่สำคัญ](http://statbbi.nso.go.th/staticreport/page/sector/th/01.aspx)
+- [สำนักสถิติแห่งชาติ — ข้อมูลสถิติที่สำคัญ](https://www.nso.go.th/)
 - [ศูนย์ข้อมูลกรุงเทพมหานคร (data.bangkok.go.th)](https://data.bangkok.go.th/)
 - [ข้อมูลท้องที่ ตำบล หมู่บ้าน — ชนบท](https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/ccaa.php)
 
